@@ -31,9 +31,7 @@
 *.out
 *.app
 
-# Idea
-.idea
+# Others
+.DS_Store
 .idea/
-
-# Cmake-debug
 cmake-build-debug
