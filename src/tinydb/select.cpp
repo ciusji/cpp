@@ -6,5 +6,5 @@
 #include "select.h"
 
 void select() {
-    std::cout<<"This is a duckdb::select method.";
+    std::cout << "This is a tinydb::select method.\n";
 }

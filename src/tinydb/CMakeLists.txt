@@ -1,0 +1,1 @@
+add_library(tinydb STATIC query.cpp select.cpp)

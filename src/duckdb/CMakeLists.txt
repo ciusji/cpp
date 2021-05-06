@@ -1,1 +1,0 @@
-add_library(duckdb STATIC query.cpp select.cpp)

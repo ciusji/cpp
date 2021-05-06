@@ -3,11 +3,11 @@
 //
 #include <iostream>
 #include "sample.h"
-#include "duckdb/query.h"
-#include "duckdb/select.h"
+#include "tinydb/query.h"
+#include "tinydb/select.h"
 
 void demo() {
-    std::cout<<"This is a query function\n";
+    std::cout << "This is a query function\n";
     query();
     select();
 }

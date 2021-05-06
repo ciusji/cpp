@@ -6,5 +6,5 @@
 #include "query.h"
 
 void query() {
-    std::cout<<"This is a duckdb::query method.\n";
+    std::cout << "This is a tinydb::query method.\n";
 }
